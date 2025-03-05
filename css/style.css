@@ -239,7 +239,7 @@ n-expert {
 }
 
 footer {
-     background: #000000;
+    background: linear-gradient(to top, #5c18d2 0%, #dfdfdf 100%);
     padding-bottom: 0.1px;
 
 }
