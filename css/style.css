@@ -35,7 +35,7 @@ header {
     height: 100vh;
     background-image: linear-gradient(to top,
              rgba(7, 240, 244, 0.312)0%,
-            rgba(20, 158, 193, 0.606)100%), url(img/logan-weaver-lgnwvr-vIrsbgXSjj0-unsplash.jpg)
+            rgba(20, 158, 193, 0.606)100%), url(img/logan-weaver-lgnwvr-vIrsbgXSjj0-unsplash.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
