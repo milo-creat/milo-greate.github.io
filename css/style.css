@@ -28,14 +28,14 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    color: #6100fe;
+    color:  #d8d6d9
 }
 
 header {
     height: 100vh;
     background-image: linear-gradient(to top,
-            rgba(26, 26, 26, 0.11)0%,
-            rgba(252, 246, 250, 0.4)100%), url(../img/logan-weaver-lgnwvr-vIrsbgXSjj0-unsplash.jpg);
+             rgba(7, 240, 244, 0.312)0%,
+            rgba(20, 158, 193, 0.606)100%), url(../img/logan-weaver-lgnwvr-vIrsbgXSjj0-unsplash.jpg)
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -50,7 +50,7 @@ header {
 .copy {
     font-weight: 300;
     font-size: 25px;
-    color: #9c00ea;
+    color:  #0c090d
 }
 
 .hamburger {
